@@ -5,9 +5,9 @@ public class Lab003_Variables {
     public static void main(String[] args) {
        // int  age=32;
        // System.out.println("Age is:"+age);
-        //int a=70;
-        //a=66+3;
-        //System.out.println(a);
+        int a=70;
+        a=66+3;
+        System.out.println(a);
         //boolean driving_age_18=true;
         //boolean driving_age_less18=false;
 
