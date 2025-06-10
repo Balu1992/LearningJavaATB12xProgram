@@ -5,7 +5,7 @@ public class Lab002_Comments {
         System.out.println("This is single line comments");
         //This is single line comment
         System.out.println("This is multi line comments");
-        /**
+        /*
          * This is a multiline comment
          */
         System.out.println("I will execute later!!!");
