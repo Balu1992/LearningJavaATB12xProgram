@@ -11,7 +11,7 @@ public class Lab023_UserinputbyScanner {
             System.out.println("Eligible for DL");
         }
         else{
-            System.out.println("Not eligible!!");
+            System.out.println("Not eligible!! ");
         }
     }
 }
