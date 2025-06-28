@@ -2,7 +2,7 @@ package ex_06_SwitchCases;
 
 import java.util.Scanner;
 
-public class Lab028_SwitchOperatordemo_5 {
+public class Lab_028_SwitchOperatordemo_5 {
     public static void main(String[] args) {
         //Grouping multiple statements in switch
         Scanner sc=new Scanner(System.in);
