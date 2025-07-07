@@ -1,0 +1,11 @@
+1. Strings are IMMUTABLE (It cannot be broken down further).
+2. Strings are stored in two ways in JVM.
+    - String Constant pool (String s="Balu")
+    - Heap Area             (String s1=new String("Balu"))
+
+3. Strings are created in 5 different ways
+    - String s="Balu";
+    - String s1=new String("Balu");
+    - StringBuffer
+    - StringBuilder
+    - toCharArray()
