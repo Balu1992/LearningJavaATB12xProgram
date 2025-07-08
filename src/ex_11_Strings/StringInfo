@@ -9,3 +9,12 @@
     - StringBuffer
     - StringBuilder
     - toCharArray()
+
+  4. StringBuilder & StringBuffer are the two classes which should be used when we perform
+      string manipulation and other operations for group of words.
+
+      StringBuilder is NOT THREAD SAFE.
+      StringBuffer is THREAD SAFE.
+
+      StringBuilder is used and is faster in SINGLE THREADED environment.
+      StringBuffer is used and is faster in MULTI THREADED environment.
