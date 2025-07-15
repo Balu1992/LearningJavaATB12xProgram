@@ -1,0 +1,3 @@
+We have two different types of constructors in java.
+1. Default Constructor (Created automatically by java during object creation, no parameters is present)
+2. Parametrized Constructor (Created manually by end users and it has parameters)

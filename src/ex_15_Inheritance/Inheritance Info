@@ -1,0 +1,8 @@
+INHERITANCE is the process of grabbing methods and behaviors from PARENT/SUPERCLASS to CHILD/SUB class
+
+We have totally 5 types of inheritance.
+- Single, multiple, multilevel, hierarchical, hybrid
+
+Single inheritance is the most widely used inheritance in automation.
+
+Hybrid & Multiple inheritance is not supported by java. It can achieved through INTERFACES.
