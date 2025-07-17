@@ -1,0 +1,14 @@
+Polymorphism means the ability of an object to act in multiple forms based on the varied situations.
+
+Ex: Steering is the common object which is present for all four wheelers and it varies from size in different vehicles
+
+There are 2 types of polymorphism: Compile time, Run time polymorphism
+
+Compile time :
+    - Its known as method overloading.
+    - Multiple methods with same name and can have different parameters in class.
+
+ Run time:
+    - Its known as method overriding.
+    - Multiple methods with different name can be available but same parameters should be used in class
+
