@@ -1,0 +1,9 @@
+Abstraction is the process of hiding implementation details and showing only necessary details to end user.
+
+It consists of Abstract, Interface
+
+ABSTRACT is the keyword which is used before the class to create abstract classes.
+Abstract classes cannot be instantiated, means no methods/objects can be created for this abstract classses.
+
+INTERFACE is the concept of allowing user-defined methods into class declaration.
+By using it, we can achieve MULTIPLE inheritance.
