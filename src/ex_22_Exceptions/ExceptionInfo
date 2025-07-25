@@ -1,0 +1,9 @@
+A process where the normal flow of execution of prgm is interrupted is called as exception.
+Exceptions can be handled but ERRORS can't be handled.
+
+There are two types of exceptions,
+- Checked  Exceptions(JVM) , ArrayIndexoutofbounds exception
+- Unchecked Exceptions(JVM not aware of it), NullpointerException
+
+There are 2 ways to handle exceptions.
+- Try and Catch, Throws
